@@ -3,6 +3,21 @@ I'm a math mayor. I code diffusion and large language models.
 
 ## You can find me on
 
+<!-- Contacts -->
+<p align="left">
+  <strong>sergioahp on (click icons):&nbsp;&nbsp;</strong>
+  <a href="mailto:sergioahp@proton.me" title="Email: sergioahp@proton.me">
+    <img alt="Email" height="24" src="https://cdn.simpleicons.org/protonmail" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/sergioahp" title="LinkedIn: sergioahp">
+    <img alt="LinkedIn" height="24" src="https://cdn.simpleicons.org/linkedin" />
+  </a>&nbsp;
+  <a href="https://huggingface.co/sergioahp" title="Hugging Face: sergioahp">
+    <img alt="Hugging Face" height="24" src="https://cdn.simpleicons.org/huggingface" />
+  </a>
+</p>
+
+
 ## Tools
 <img height="40" src="https://cdn.simpleicons.org/pytorch?viewbox=auto" /> <img height="40" src="https://cdn.simpleicons.org/latex?viewbox=auto" /> <img height="40" src="https://cdn.simpleicons.org/typst?viewbox=auto" /> <img height="40" src="https://cdn.simpleicons.org/c?viewbox=auto" /> <img height="40" src="https://cdn.simpleicons.org/lua?viewbox=auto" /> <img height="40" src="https://cdn.simpleicons.org/docker?viewbox=auto" /> <img height="40" src="https://cdn.simpleicons.org/neovim?viewbox=auto" /> <img height="40" src="https://cdn.simpleicons.org/nixos?viewbox=auto" /> <img height="40" src="https://cdn.simpleicons.org/rust?viewbox=auto" />
 
@@ -25,3 +40,11 @@ I'm a math mayor. I code diffusion and large language models.
 <b>Note:</b> Top languages reflects public repo contents and not skill level.
 
 ## About me
+
+| Date            | Title (translated)                                                | Venue/Series                                   | Notes |
+|-----------------|-------------------------------------------------------------------|------------------------------------------------|-------|
+| 2024-08-19      | **Diffusion Models in Artificial Intelligence**                   | Information Geometry Seminar, UAM-I | Math-focused seminar talk |
+| 2024-07-08–12   | **Python from Zero** — **10h workshop**                           | XXVII Semana de las Matemáticas, UAM-I         | Intro Python |
+| 2024-07-08–12   | **Python and ChatGPT** — **10h workshop**                         | XXVII Semana de las Matemáticas, UAM-I         | LLMs in practice |
+| 2024-07-12      | **Keynote: AI in 2024: Advances and Trends**                      | XXVII Semana de las Matemáticas, UAM-I         | Invited talk |
+| 2024-07-08–12   | Organizing Committee                                              | XXVII Semana de las Matemáticas, UAM-I         ||
