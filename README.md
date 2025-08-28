@@ -41,10 +41,10 @@ I'm a math mayor. I code diffusion and large language models.
 
 ## About me
 
-| Date            | Title (translated)                                                | Venue/Series                                   | Notes |
-|-----------------|-------------------------------------------------------------------|------------------------------------------------|-------|
+| Date            | Title (translated)                                                | Venue/Series                                   | Notes          |
+|-----------------|-------------------------------------------------------------------|------------------------------------------------|----------------|
 | 2024-08-19      | **Diffusion Models in Artificial Intelligence**                   | Information Geometry Seminar, UAM-I | Math-focused seminar talk |
-| 2024-07-08–12   | **Python from Zero** — **10h workshop**                           | XXVII Semana de las Matemáticas, UAM-I         | Intro Python |
-| 2024-07-08–12   | **Python and ChatGPT** — **10h workshop**                         | XXVII Semana de las Matemáticas, UAM-I         | LLMs in practice |
-| 2024-07-12      | **Keynote: AI in 2024: Advances and Trends**                      | XXVII Semana de las Matemáticas, UAM-I         | Invited talk |
-| 2024-07-08–12   | Organizing Committee                                              | XXVII Semana de las Matemáticas, UAM-I         ||
+| 2024-07-08–12   | **Python from Zero** — **10h workshop**                           | XXVII Semana de las Matemáticas, UAM-I         | Intro Python   |
+| 2024-07-08–12   | **Python and ChatGPT** — **10h workshop**                         | XXVII Semana de las Matemáticas, UAM-I         | Intro Keras    |
+| 2024-07-12      | **Keynote: AI in 2024: Advances and Trends**                      | XXVII Semana de las Matemáticas, UAM-I         | Invited talk   |
+| 2024-07-08–12   | **Organizing Committee**                                          | XXVII Semana de las Matemáticas, UAM-I         |                |
